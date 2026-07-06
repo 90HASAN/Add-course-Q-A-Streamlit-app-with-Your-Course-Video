@@ -9,7 +9,6 @@ venv/
 env/
 
 # Generated data / large files
-embaddings.joblib
 json/
 prompt.txt
 answer.txt
