@@ -1,0 +1,26 @@
+# Secrets - NEVER commit this
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Generated data / large files
+embaddings.joblib
+json/
+prompt.txt
+answer.txt
+
+# Media - too large for GitHub (100MB limit per file)
+audios/
+videos/
+useless/
+
+# Editor
+.vscode/
+
+# OS junk
+.DS_Store
